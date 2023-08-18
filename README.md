@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>README</title>
-</head>
 <body>
 
 <h1>EARTH ASTEROID IMPACT PROBABILITY</h1>
